@@ -4,11 +4,24 @@
         <title>MyNewAppTest_(210507)</title>
         <item>
             <title>1.2</title>
-            <pubDate>Wed, 17 Apr 2024 14:36:57 -0600</pubDate>
+            <pubDate>Wed, 17 Apr 2024 15:10:06 -0600</pubDate>
             <sparkle:version>1.2</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jimsBeam/MyLottoApp/releases/download/prod/MyLottoApp1.2.dmg" length="113456204" type="application/octet-stream" sparkle:edSignature="7nfJI8RrBKhE0l84pjeDgYYH6nFCaqQhW/fADWhTnpMonX7fIeYzjVkZseledQ6Jp2U7xtOjmLUQCS3wmTlSAg=="/>
+<description><![CDATA[
+<h2>What's New</h2>
+<ul>
+<li>Created Apple Help Book.</li>
+<li>Created Sparkle Updater to check for new updates.</li>
+<li>Minor coding improvements.</li>
+<li>Application contains current Historical Data to place into User's Application Document Folder for New User.</li>
+<li>Application verifies User's Application Document Folder exists with current User Historical Data before making any changes to User's Application Document Folder.</li>
+<li>Application will not over-ride User's Historical Data in the User's Application Document Folder.</li>
+<li>Application will update to the Current Version when the User requests an update.</li>
+</ul>
+]]>
+</description> 
+            <enclosure url="https://github.com/jimsBeam/MyLottoApp/releases/download/prod/MyLottoApp1.3.dmg" length="113456529" type="application/octet-stream" sparkle:edSignature="C07gJko3asL4kQNt9dSbzd9bN/tfK1BzBtcXzFWYrImDM6E3ii/XElf0MDMo4SRFRZFeDuNNwo/wroPpUwLWBw=="/>
         </item>
     </channel>
 </rss>
